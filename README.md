@@ -2,7 +2,6 @@
 
 ## Über mich 📜
 Mein Name ist Jona, ich bin 14 Jahre alt und wohne in der Nähe von Franfurt. Ich programmiere nun schon seit 4 Jahren überwiegend in Java und (HTML/CSS)/Javascript.
-Außerdem leite auch einen <a href=https://discord.gg/mauECUUGDy>Schüler Discord</a> mit <a href=http://www.xefnexx.de>@XEfnexX</a>.
 Mehr Informationen über mich findest du weiter unten.
 
 ## Interessen 💡
