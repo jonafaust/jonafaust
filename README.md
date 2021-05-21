@@ -13,7 +13,7 @@ Mehr Informationen über mich findest du weiter unten.
 [![Python Badge](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#)
 
 ## Social-Media 📱
-[![Instagram Badge](https://img.shields.io/badge/-@jonafaust-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/jonafaust)
+
 
 <details>
   
