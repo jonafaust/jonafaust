@@ -1,7 +1,7 @@
 # Jona Faust (@jonafaust) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ## Über mich 📜
-Mein Name ist Jona, ich bin 14 Jahre alt und wohne in der Nähe von Franfurt. Ich programmiere nun schon seit 4 Jahren überwiegend in Java und (HTML/CSS)/Javascript.
+Mein Name ist Jona, ich bin 15 Jahre alt und wohne in der Nähe von Franfurt. Ich programmiere nun schon seit 4 Jahren überwiegend in Java und (HTML/CSS)/Javascript.
 Mehr Informationen über mich findest du weiter unten.
 
 ## Interessen 💡
