@@ -6,9 +6,9 @@ As a hobby I work on the ARK network "Astro".
 
 
 
-[Website](https://astro-pvp.com)
+[AstroARK](https://astro-pvp.com)
 
-[Discord](https://discord.gg/astroark)
+[AstroDiscord](https://discord.gg/astroark)
 
 
 ## Interessen 💡
