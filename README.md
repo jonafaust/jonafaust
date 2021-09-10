@@ -4,9 +4,10 @@
 My name is Jona, I am 15 years old and live near Frankfurt, Germany. I have been programming for 4 years now, mainly in Java and (HTML/CSS)/Javascript.
 As a hobby I work on the ARK network "Astro".
 
-https://discord.gg/astroark
+
 
 [Website](https://astro-pvp.com)
+[Discord](https://discord.gg/astroark)
 
 
 ## Interessen 💡
