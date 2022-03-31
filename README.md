@@ -29,7 +29,7 @@ As a hobby I work on the ARK network [AstroARK](https://astro-pvp.com). [discord
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-## Tools & Applications 
+## Tools & Applications ⚙️
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289d9?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289d9)](#)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -39,7 +39,7 @@ As a hobby I work on the ARK network [AstroARK](https://astro-pvp.com). [discord
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-## Operating Systems & Hardware
+## Operating Systems & Hardware 🖥️
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
