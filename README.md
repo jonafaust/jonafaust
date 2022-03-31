@@ -2,13 +2,13 @@
 
 ## About me 📜
 My name is Jona Faust, I live near Frankfurt, Germany. I have been programming for 5 years now, mainly in Java and (HTML/CSS)/Javascript.
-As a hobby I work on the ARK network @AstroARK .
+As a hobby I work on the ARK network [AstroARK](https://astro-pvp.com). [discord.gg/astroark](https://discord.gg/astroark)
 
 
 
-[AstroARK](https://astro-pvp.com)
 
-[AstroDiscord](https://discord.gg/astroark)
+
+
 
 
 ## Languages💡
